@@ -1,7 +1,9 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/First Post/index.html"
+    ]
   },
   {
     "listing": "/about.html",

@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "posts/First Post/index.html",
+    "href": "posts/First Post/index.html",
+    "title": "TEST POST",
+    "section": "",
+    "text": "1+ 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "DACSS 601 August 2022",
     "section": "",
-    "text": "No matching items"
+    "text": "TEST POST\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

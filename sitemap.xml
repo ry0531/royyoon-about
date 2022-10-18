@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ry0531.github.io/royyoon-about/posts/First Post/index.html</loc>
+    <lastmod>2022-10-18T21:45:29.007Z</lastmod>
+  </url>
+  <url>
     <loc>https://ry0531.github.io/royyoon-about/index.html</loc>
-    <lastmod>2022-10-18T21:23:44.055Z</lastmod>
+    <lastmod>2022-10-18T21:45:29.438Z</lastmod>
   </url>
   <url>
     <loc>https://ry0531.github.io/royyoon-about/about.html</loc>
-    <lastmod>2022-10-18T21:23:44.470Z</lastmod>
+    <lastmod>2022-10-18T21:45:29.764Z</lastmod>
   </url>
   <url>
     <loc>https://ry0531.github.io/royyoon-about/templates/AboutTemplate.html</loc>
-    <lastmod>2022-10-18T21:23:44.806Z</lastmod>
+    <lastmod>2022-10-18T21:45:30.137Z</lastmod>
   </url>
   <url>
     <loc>https://ry0531.github.io/royyoon-about/templates/PostTemplate.html</loc>
-    <lastmod>2022-10-18T21:23:48.410Z</lastmod>
+    <lastmod>2022-10-18T21:45:33.549Z</lastmod>
   </url>
 </urlset>
