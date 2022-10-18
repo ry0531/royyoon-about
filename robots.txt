@@ -1,1 +1,1 @@
-Sitemap: https://github.com/ry0531/royyoon-about/sitemap.xml
+Sitemap: https://ry0531.github.io/royyoon-about/sitemap.xml
